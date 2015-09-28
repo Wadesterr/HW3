@@ -10,8 +10,10 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Salary Calculator</title>
+        <link rel="stylesheet" type="text/css" href="CSS.css" />
     </head>
     <body>
+        <div id="Appborder">
         <h1>Salary Calculator</h1>
         
         <form name="Salary Calculator" action="results.jsp" method="post">
@@ -43,5 +45,7 @@
             <input type="submit" value="submit" id="submit">
             
         </form>
-    </body>
+        </div>
+    </body> 
+   
 </html>

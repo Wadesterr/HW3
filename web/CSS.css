@@ -1,0 +1,38 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 28, 2015, 1:32:15 PM
+    Author     : Wade
+*/
+
+
+
+h1{ font-family: 'Franklin Gothic Medium', 'Franklin Gothic', 'ITC Franklin Gothic', Arial, sans-serif;
+	font-size: 48px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+body{
+       font-family: Papyrus, fantasy;
+	font-size: 24px;
+	font-style: bold;
+	font-variant: normal;
+	font-weight: 800;
+	line-height: 26.4px;
+}
+        
+#Appborder {border: solid 2px ; 
+    background-color: lightskyblue;
+    width: 500px;
+    }
+    
+    
+#chartborder {border: solid 2px ; 
+    background-color: lightskyblue;
+    width:300px;
+    }
